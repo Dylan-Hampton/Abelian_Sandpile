@@ -1,2 +1,2 @@
 # Abelian_Sandpile
-A basic Abelian Sandpile simulation
+A basic Abelian Sandpile simulation.
